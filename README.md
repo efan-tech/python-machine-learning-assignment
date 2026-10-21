@@ -1,6 +1,7 @@
 # python-machine-learning-assignment
 Ai-assignment
-*NAME* Albert wanjohi
+
+**NAME** Albert wanjohi
 
 ## Project Overview
 This repository contains Python scripts for supervised and unsupervised machine learning assignmentS.
@@ -23,14 +24,14 @@ This repository contains Python scripts for supervised and unsupervised machine 
    ```
 
 
-2.  **Install dependencies **
+2.  **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
 
    ```
    
-3.   **Run the script **
+3.   **Run the script**
 for supervised
 
   ```bash 
