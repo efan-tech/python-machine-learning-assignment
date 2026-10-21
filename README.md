@@ -47,7 +47,7 @@ python unsupervised_ml.py
 
 # Theory Questions
 
-**What is supervised machine learning?**
+1. **What is supervised machine learning?**
    A type of machine learning where the model is trained on a labeled dataset.
 
 2. **What is unsupervised machine learning?**
