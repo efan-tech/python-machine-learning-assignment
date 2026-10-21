@@ -31,7 +31,8 @@ This repository contains Python scripts for supervised and unsupervised machine 
 
    ```
    
-3.   **Run the script**
+3.   **Run the script:**
+
 for supervised
 
   ```bash 
