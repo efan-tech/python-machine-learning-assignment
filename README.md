@@ -20,18 +20,26 @@ This repository contains Python scripts for supervised and unsupervised machine 
    ```bash
    git clone [https://github.com/efan-tech/python-machine-learning-assignment.git](https://github.com/efan-tech/python-machine-learning-assignment.git)
    cd python-machine-learning-assignment
-```
-**Install dependencies **
-```
+   ```
+
+
+2.  **Install dependencies **
+
+   ```bash
    pip install -r requirements.txt
-```
+
+   ```
    
-**Run the script **
+3.   **Run the script **
 for supervised
-  ```python supervised_ml.py```
+
+  ```bash 
+python supervised_ml.py
+  ```
 for unsupervised 
- ```python unsupervised_ml.py
-```
+ ```bash
+python unsupervised_ml.py
+ ```
 
    
 
