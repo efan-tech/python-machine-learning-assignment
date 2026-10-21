@@ -40,8 +40,8 @@ for cluster_id in range(3):
 spending = [customer[0]for customer in customer_data]
 visits =[customer[1]for customer in customer_data]
 
-plt.scatter(spending,visits, c=cluster, cmap='viridis',s=100)
-plt.title('customer Segmention (K-Means Clustering')
+plt.scatter(spending,visits, c=cluster)
+plt.title('K-Means Clustering')
 plt.xlabel('Monthly Spending')
 plt.ylabel('Monthly Visits')
 plt.grid(True)
